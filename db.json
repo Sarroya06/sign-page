@@ -1,0 +1,50 @@
+{
+  "post": [],
+  "signupUsers": [
+    {
+      "fullname": "Himanshu",
+      "email": "Sarroya0603@gmail.com",
+      "password": "abc@123",
+      "mobile": 7404342800,
+      "id": 1
+    },
+    {
+      "fullname": "Himanshu",
+      "email": "Sarroya0603@gmail.com",
+      "password": "abc@123",
+      "mobile": 7404342800,
+      "id": 2
+    },
+    {
+      "fullname": "alex",
+      "email": "test@gmail.com",
+      "password": "test123",
+      "mobile": 1234567890,
+      "id": 3
+    },
+    {
+      "fullname": "Jagtar",
+      "email": "jagtar@gmail.com",
+      "password": "abc@123",
+      "mobile": 1234567890,
+      "id": 4
+    },
+    {
+      "fullname": "priya",
+      "email": "priya@gmail.com",
+      "password": "priya@123",
+      "mobile": 1234567890,
+      "id": 5
+    },
+    {
+      "fullname": "himanshu",
+      "email": "Sarroya0603@gmail.com",
+      "password": "abc@123",
+      "mobile": 7404342800,
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
